@@ -1,0 +1,10 @@
+name: "base"
+channels:
+  - defaults
+
+#dependencies:
+# - libhdfs3
+# - add packages here
+# - one per line 
+  
+prefix: "/opt/conda"
